@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Sudhir 👋
 
-<!--
-**dukheri075-dotcom/dukheri075-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+I'm currently learning Full Stack Web Development with the MERN Stack (MongoDB, Express.js, React.js, Node.js). I enjoy building web applications, learning new technologies, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning
+
+- HTML, CSS, JavaScript
+- React.js
+- Node.js & Express.js
+- MongoDB
+- Git & GitHub
+- REST APIs
+
+💻 Goals
+
+- Build real-world full stack projects
+- Contribute to open-source projects
+- Gain practical development experience through internships
+- Improve Data Structures & Algorithms
+
+🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code
+
+📈 GitHub Journey
+
+I use this GitHub profile to showcase my learning progress, projects, and coding practice as I grow into a full stack developer.
+
+📫 Connect With Me
+
+- GitHub: your-github-dukheri075-dotcom
+- Email: your-email dukheri075@gmail.com
